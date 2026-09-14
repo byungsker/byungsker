@@ -3,56 +3,9 @@
 > _단지 기술 뿐만 아니라, **정말 잘 사용될 수 있는 제품 만들기**를 지향합니다._ <br>
 > _**매일 짧은 글을 쓰며** 인사이트를 기록합니다._ <br>
 
-
 ## 🙋🏻 그동안 이런 발표를 하였어요.
-
-
-
-<table>
-  <tr>
-    <th align="center">컨퍼런스</th>
-    <th align="center">이미지</th>
-    <th align="center">발표 제목</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://velog.io/@byungsker/TeoConf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk">
-        <strong>TeoConf2024</strong>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/49a68125-d509-4fb1-9a51-cf59fc3bbd91" width="320">
-    </td>
-    <td align="center">
-      <a href="https://velog.io/@byungsker/TeoConf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk">
-        <strong>
-          주니어 개발자의, 200일 간 혼자만의 
-          <br>
-          짧은 글쓰기 챌린지로 성장하기
-        </strong>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://docs.google.com/presentation/d/12GWk3F3V3TBFT_LR4hTOidEg6GQSD7FpvMjac4h8AH8/edit#slide=id.g32969f07a4b_1_0">
-        <strong>
-          글또 프론트엔드
-          <br>
-          모바일 반상회
-        </strong>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/48704176-f544-4f48-a225-9aa1eebfa64b" width="320">
-    </td>
-    <td align="center">
-      <a href="https://docs.google.com/presentation/d/12GWk3F3V3TBFT_LR4hTOidEg6GQSD7FpvMjac4h8AH8/edit#slide=id.g32969f07a4b_1_0">
-        <strong>생애 첫 npm 라이브러리 배포하기!</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+- [TeoConf2024 발표](https://byungskerlog.com/posts/teoconf2024-스피커-후기-bloj8ivk) — 주니어 개발자의 200일 간 짧은 글쓰기 챌린지
+- [글또 프론트엔드 모바일 반상회](https://byungskerlog.com/posts/글또-프론트엔드-모바일-반상회-발표-후기) — 생애 첫 npm 라이브러리 배포하기
 
 <br>
 
@@ -62,37 +15,39 @@
 
 <br>
 
-## ✏️ 최근 작성한 글
-- _[피그마 무료 플랜에서 컬러 코드 추출 자동화하기! (feat. Figmable CLI 배포)](https://velog.io/@byungsker/Figmable-CLI-%EB%B0%B0%ED%8F%AC%EB%AC%B4%EB%A3%8C%ED%94%8C%EB%9E%9C%EC%97%90%EC%84%9C-%ED%94%BC%EA%B7%B8%EB%A7%88-rest-api%EB%A1%9C-%ED%86%A0%ED%81%B0-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)_
-- _[글또 프론트엔드 모바일 반상회 발표 후기!](https://velog.io/@byungsker/%EA%B8%80%EB%98%90-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B0%98%EC%83%81%ED%9A%8C-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0)_
-- _[TeoConf2024 스피커 후기](https://velog.io/@byungsker/TeoConf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk)_
-- _[짧고 빠르게 Storybook 도입하기!](https://velog.io/@byungsker/%EB%82%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A7%A7%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-Storybook-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0)_
-- _[Fluttrer Web에서 Javascript 유연하게 사용하기 (feat. JS interop의 A to Z)](https://velog.io/@byungsker/Fluttrer-Web%EC%97%90%EC%84%9C-Javascript-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)_
-
-> _👉🏻 [더 많은 기술 블로그](https://velog.io/@byungsker/posts)은 여기서 보실 수 있어요!_ <br>
-> _👉🏻 매일 [짧은 글](https://www.linkedin.com/in/byungwoo-lee-98a253200/)을 작성하고 있어요!_
-
-
+## 🌍 Contributions
+- [TanStack Query #10182](https://github.com/TanStack/query/pull/10182) — ESLint v10 peer dependency 호환성 개선
+- [TanStack Query #10465](https://github.com/TanStack/query/pull/10465) — Vue Query queryOptions.enabled 타입 회귀 수정
+- [toss/react-simplikit #370](https://github.com/toss/react-simplikit/pull/370) — React 유틸리티 라이브러리 개선 기여
 
 <br>
 
+## ⭐ 대표 글
+1. _[TanStack Query 첫 기여 (feat. ESLint v10 peerDependency issue)](https://byungskerlog.com/posts/tanstack-query-첫-기여-feat-eslint-v10-peerdependency-issue)_
+2. _[Tanstack Query 2번째 기여 성공! (feat. Vue Query에서 computed enabled가 막힌 이유와 타입을 고친 과정)](https://byungskerlog.com/posts/tanstack-query-2번째-기여-성공-feat-vue-query에서-computed-enabled가-막힌-이유와-타입을-고친-과정)_
+3. _[피그마 무료 플랜에서 컬러 코드 추출 자동화하기! (feat. Figmable CLI 배포)](https://byungskerlog.com/posts/figmable-cli-배포무료플랜에서-피그마-rest-api로-토큰-가져오기)_
+4. _[글또 프론트엔드 모바일 반상회 발표 후기!](https://byungskerlog.com/posts/글또-프론트엔드-모바일-반상회-발표-후기)_
+5. _[TeoConf2024 스피커 후기](https://byungskerlog.com/posts/teoconf2024-스피커-후기-bloj8ivk)_
+6. _[짧고 빠르게 Storybook 도입하기!](https://byungskerlog.com/posts/내-프로젝트에-짧고-빠르게-storybook-도입하기)_
+7. _[Fluttrer Web에서 Javascript 유연하게 사용하기 (feat. JS interop의 A to Z)](https://byungskerlog.com/posts/fluttrer-web에서-javascript-유연하게-사용하기)_
+
+> _👉🏻 [byungskerlog에서 더 많은 기술 글을 볼 수 있어요.](https://byungskerlog.com/)_ <br>
+> _👉🏻 매일 [짧은 글](https://www.linkedin.com/in/byungwoo-lee-98a253200/)을 작성하고 있어요!_
+
+<br>
 
 ## ✨ Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
-
-
 
 <br>
 
-
 ## 📫 Contact Me
-
 <a href="https://www.linkedin.com/in/byungwoo-lee-98a253200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0966c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://byungskerlog.com/" target="_blank"><img src="https://img.shields.io/badge/byungskerlog-111827?style=flat-square&logo=readthedocs&logoColor=white"/></a>
 <a href="https://velog.io/@byungsker/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
