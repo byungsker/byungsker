@@ -16,7 +16,7 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
   <tr>
     <td valign="top" width="50%">
       <a href="https://byungskerlog.com/products/bookgolas">
-        <img src="./assets/bookgolas-thumbnail.png" width="180" alt="북골라스 화면" />
+        <img src="./assets/bookgolas-thumbnail.png" width="150" alt="북골라스 화면" />
       </a>
       <br />
       <b><a href="https://byungskerlog.com/products/bookgolas">북골라스</a></b>
@@ -25,7 +25,7 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
     </td>
     <td valign="top" width="50%">
       <a href="https://byungskerlog.com/products/baroguni">
-        <img src="./assets/baroguni-thumbnail.jpg" width="180" alt="바로구니 화면" />
+        <img src="./assets/baroguni-thumbnail.jpg" width="150" alt="바로구니 화면" />
       </a>
       <br />
       <b><a href="https://byungskerlog.com/products/baroguni">바로구니</a></b>
@@ -35,18 +35,26 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
   </tr>
 </table>
 
-## 🎤 발표
-
-- [TeoConf2024 발표](https://byungskerlog.com/posts/teoconf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk) — 주니어 개발자의 200일 글쓰기 챌린지
-- [글또 프론트엔드 모바일 반상회](https://byungskerlog.com/posts/%EA%B8%80%EB%98%90-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B0%98%EC%83%81%ED%9A%8C-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0) — 첫 npm 라이브러리 배포 경험 공유
-
-## ✏️ 최근 포스트
-
-- [7인의 AI 드림팀 만들기 리뷰](https://byungskerlog.com/posts/7%EC%9D%B8%EC%9D%98-ai-%EB%93%9C%EB%A6%BC%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%A6%AC%EB%B7%B0)
-- [AI가 두려운 당신에게 리뷰](https://byungskerlog.com/posts/ai%EA%B0%80-%EB%91%90%EB%A0%A4%EC%9A%B4-%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C-%EB%A6%AC%EB%B7%B0)
-- [TanStack Query 첫 기여](https://byungskerlog.com/posts/tanstack-query-%EC%B2%AB-%EA%B8%B0%EC%97%AC-feat-eslint-v10-peerdependency-issue)
-
-[더 많은 글 보기](https://byungskerlog.com/posts)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎤 발표</h3>
+      <ul>
+        <li><a href="https://byungskerlog.com/posts/teoconf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk">TeoConf2024 발표</a><br />주니어 개발자의 200일 글쓰기 챌린지</li>
+        <li><a href="https://byungskerlog.com/posts/%EA%B8%80%EB%98%90-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B0%98%EC%83%81%ED%9A%8C-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0">글또 프론트엔드 모바일 반상회</a><br />첫 npm 라이브러리 배포 경험 공유</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>✏️ 최근 포스트</h3>
+      <ul>
+        <li><a href="https://byungskerlog.com/posts/7%EC%9D%B8%EC%9D%98-ai-%EB%93%9C%EB%A6%BC%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%A6%AC%EB%B7%B0">7인의 AI 드림팀 만들기 리뷰</a></li>
+        <li><a href="https://byungskerlog.com/posts/ai%EA%B0%80-%EB%91%90%EB%A0%A4%EC%9A%B4-%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C-%EB%A6%AC%EB%B7%B0">AI가 두려운 당신에게 리뷰</a></li>
+        <li><a href="https://byungskerlog.com/posts/tanstack-query-%EC%B2%AB-%EA%B8%B0%EC%97%AC-feat-eslint-v10-peerdependency-issue">TanStack Query 첫 기여</a></li>
+      </ul>
+      <a href="https://byungskerlog.com/posts">더 많은 글 보기</a>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Tech Stack
 
