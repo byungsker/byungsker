@@ -16,7 +16,7 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
   <tr>
     <td valign="top" width="50%">
       <a href="https://byungskerlog.com/products/bookgolas">
-        <img src="./assets/bookgolas-thumbnail.png" width="150" alt="북골라스 화면" />
+        <img src="./assets/bookgolas-thumbnail.png" width="120" alt="북골라스 App Store 첫 번째 섬네일" />
       </a>
       <br />
       <b><a href="https://byungskerlog.com/products/bookgolas">북골라스</a></b>
@@ -25,7 +25,7 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
     </td>
     <td valign="top" width="50%">
       <a href="https://byungskerlog.com/products/baroguni">
-        <img src="./assets/baroguni-thumbnail.jpg" width="150" alt="바로구니 화면" />
+        <img src="./assets/baroguni-thumbnail.jpg" width="120" alt="바로구니 App Store 첫 번째 섬네일" />
       </a>
       <br />
       <b><a href="https://byungskerlog.com/products/baroguni">바로구니</a></b>
@@ -56,16 +56,21 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
   </tr>
 </table>
 
-## ✨ Tech Stack
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-## 📫 Channels
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byungwoo-lee-98a253200/)
-[![byungskerlog](https://img.shields.io/badge/byungskerlog-000000?style=for-the-badge&logo=blogger&logoColor=white&labelColor=000000)](https://byungskerlog.com/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@byungsker)
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <b>✨ Tech Stack</b><br />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    </td>
+    <td valign="top" width="40%">
+      <b>📫 Channels</b><br />
+      <a href="https://www.linkedin.com/in/byungwoo-lee-98a253200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://byungskerlog.com/"><img src="https://img.shields.io/badge/byungskerlog-000000?style=flat-square&logo=blogger&logoColor=white&labelColor=000000" alt="byungskerlog" /></a>
+      <a href="https://velog.io/@byungsker"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" /></a>
+    </td>
+  </tr>
+</table>
