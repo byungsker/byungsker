@@ -4,6 +4,7 @@ Vue · React · Next.js · TypeScript · Flutter로 사용자 문제를 실제 �
 
 ## 🌍 Contributions
 
+- [NousResearch/hermes-agent #115900](https://github.com/NousResearch/hermes-agent/pull/115900) — Codex Responses 스트림 supersession 수정: live callback은 차단하고 provider stream은 끝까지 소비해 최종 응답 잘림 방지 (내 PR [#69502](https://github.com/NousResearch/hermes-agent/pull/69502)에서 제안)
 - [TanStack Query #10182](https://github.com/TanStack/query/pull/10182) — ESLint v10 peer dependency 호환성 개선
 - [TanStack Query #10465](https://github.com/TanStack/query/pull/10465) — Vue Query `queryOptions.enabled` 타입 회귀 수정
 - [toss/react-simplikit #370](https://github.com/toss/react-simplikit/pull/370) — React 유틸리티 라이브러리 개선 기여
